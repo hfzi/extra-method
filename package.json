@@ -1,14 +1,11 @@
 {
   "name": "extra-method",
-  "version": "1.0.1",
-  "description": "Easy cookie commands and Array methods",
+  "version": "1.0.3",
+  "description": "Array methods",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hfzi/borek"
+    "url": "https://github.com/hfzi/extra-method"
   },
   "keywords": [
     "methods"
