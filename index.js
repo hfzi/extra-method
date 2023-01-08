@@ -7,7 +7,7 @@ module.exports.fasterMap = Array.prototype.fasterMap = function(transform) {
   const len = this.length
   const newArr = new Array(len);
   for (let i = 0; i < len; i++) {
-    newArr[i] = transform(this[i]);
+    newArr[i] = transform(this[i], i);
   }
   return newArr;
 };
