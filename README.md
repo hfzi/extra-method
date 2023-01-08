@@ -1,10 +1,10 @@
 ```js
 // es6 before  
-require('borek')
+require('extra-method')
 ```
 ```js
 // es6 after  
-import 'borek'
+import 'extra-method'
 ```
 
 ## ".fasterMap()" method fast then ".map()"

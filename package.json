@@ -1,6 +1,6 @@
 {
   "name": "extra-method",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Array methods",
   "main": "index.js",
   "repository": {
